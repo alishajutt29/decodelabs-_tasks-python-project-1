@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "Finish Python assignment",
+        "done": false
+    },
+    {
+        "id": 2,
+        "task": "Walk the dog",
+        "done": true
+    },
+    {
+        "id": 3,
+        "task": "Push project to GitHub",
+        "done": false
+    }
+]
